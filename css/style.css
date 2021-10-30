@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Beginning of Navbar Style */
+ul#nav-links{
+    margin-right: 4.5rem;
+}
+ul#nav-links>li{
+    margin: 0 1rem 0 1rem;
+}
+ul#nav-links>li>a:hover{
+    color:#157347;
+}
+#linkedin-nav{
+    color:#0a66c2;
+}
+#facebook-nav{
+    color:#3b5998;
+}
+#github-nav{
+    color:#212529;
+}
+#instagram-nav{
+    color:#c435a5;
+}
+
+/* End of Navbar Styles */
+
+/* Banner and Call to Action Style */
+#cta-info h1{
+    font-size: 4rem;
+}
+#cta-btn{
+    border-radius: 2.5rem;
+}
+#banner-img{
+    width:55%;
+    height:95vh;
+}
+/* End of Banner and Call to Action Style */
+
+/* About Section */
+#about-section{
+    background: #e6e9e1;
+}
+#innovation-card:hover{
+    background-color: #bbf0ef;
+
+}
+#collaboration-card:hover{
+    background-color:#bae7d2
+}
+#development-card:hover{
+    background-color: #f0ebb3;
+}
+/* End of About Section */
+
+/* Footer section */
+#connect{
+    background:linear-gradient(to right,#928df1,#cdcaf7,#DDDAFD);
+}
+#home-footer h1{
+    font-size: 3rem;
+}
+ul#connect-icons{
+    width:50%;
+    display:flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 3rem;
+}
+ul#connect-icons #linkedin{
+    color:#0a66c2;
+}
+ul#connect-icons #linkedin:hover{
+    color:#4d9ae7;
+}
+ul#connect-icons #github{
+    color:#212529;
+}
+ul#connect-icons #github:hover{
+    color:#3c3d3f;
+}
+
+ul#connect-icons #email{
+    color:#EA4335;
+}
+ul#connect-icons #email:hover{
+    color:#e7665a;
+}
+ul#connect-icons #instagram{
+    color:#c435a5;
+}
+ul#connect-icons #instagram:hover{
+    color:#dd65c3;
+}
+/* End of Footer section */
+
