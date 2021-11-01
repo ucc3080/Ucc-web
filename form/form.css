@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Beginning of Navbar Style */
+ul#nav-links{
+    margin-right: 4.5rem;
+}
+ul#nav-links>li{
+    margin: 0 1rem 0 1rem;
+}
+ul#nav-links>li>a:hover{
+    color:#157347;
+}
+#linkedin-nav{
+    color:#0a66c2;
+}
+#facebook-nav{
+    color:#3b5998;
+}
+#github-nav{
+    color:#212529;
+}
+#instagram-nav{
+    color:#c435a5;
+}
