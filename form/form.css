@@ -5,6 +5,9 @@
 }
 
 /* Beginning of Navbar Style */
+nav{
+    background-color: #157347;
+}
 ul#nav-links{
     margin-right: 4.5rem;
 }
