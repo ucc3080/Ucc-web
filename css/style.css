@@ -36,6 +36,10 @@ ul#nav-links>li>a:hover{
 #cta-btn{
     border-radius: 2.5rem;
 }
+#cta-btn a{
+    text-decoration: none;
+    color:#fff;
+}
 #banner-img{
     width:55%;
     height:95vh;
