@@ -15,10 +15,9 @@ ul#nav-links>li{
     margin: 0 1rem 0 1rem;
 }
 ul#nav-links>li>a:hover{
-    color:#157347;
-
-
-    /* }
+    color:#d9ebe3;
+ }
+ /*
 #linkedin-nav{
     color:#0a66c2;
 }
@@ -30,4 +29,13 @@ ul#nav-links>li>a:hover{
 }
 #instagram-nav{
     color:#c435a5;
-} */
+}*/
+
+/* STYLE RULE FOR FORM IMAGE */
+
+#img-col img{
+    width:120%;
+    padding:2rem;
+}
+
+/* END OF STYLE RULE FOR FORM IMAGE */
